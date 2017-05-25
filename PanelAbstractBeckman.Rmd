@@ -1,0 +1,31 @@
+---
+title: "Pedagogical considerations for simulation-based inference in a large-enrollment introductory biostatistics course."
+author: |
+  | Matthew D. Beckman & Kari Lock Morgan
+  | Penn State University
+date: ""
+output: pdf_document
+---
+
+# Abstract: 
+
+This presentation discusses steps taken to integrate simulation-based inference (SBI) methods into an introductory biostatistics course. An overview of the course structure is provided, as well as pedagogical considerations relevant to SBI in a large enrollment context for undergraduate students in life science majors. Specific topics include use of inquiry-based framework, a complementary approach to SBI and non-SBI methods in order to emphasize conceptual understanding, and strategies for accommodating--perhaps even benefiting from--large enrollment for this type of course.  Lastly, the presentation will compare and contrast this course with other approaches to introductory statistics using SBI.
+
+
+# Tentative Outline of Talk: 
+
+- (Matt) Description of STAT 250 revamp
+    - Question of the day (usually life science)
+    - Islands project
+- (Matt) Pedagogical considerations
+    - SBI
+        - building intution
+        - tangible machinery
+        - revisit key concepts through SBI & non-SBI
+    - large enrollment
+        - Google Doc in lecture
+        - clickers
+    - intersection of SBI & large enrollment
+        - M&M simulation anyway
+        - StatKey in lecture
+- (Kari) Compare/Contrast with other approaches (i.e. informal discussant)
