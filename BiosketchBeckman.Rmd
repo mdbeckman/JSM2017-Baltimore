@@ -1,0 +1,8 @@
+---
+title: "JSM Biosketch"
+author: "Matthew Beckman"
+date: 
+output: pdf_document
+---
+
+Matt Beckman is a research associate and the director of undergraduate studies in the statistics department at Penn State.  He earned his PhD in 2015 studying statistics education, educational measurement, and cognitive transfer at the University of Minnesota, and has continued to pursue those research interests in his current position.  Prior to academia, Matt worked for 8 years as a senior statistician & biostatistician in the medical device industry while also periodically teaching statistics as adjunct faculty at the University of Minnesota and Saint Olaf College.  
