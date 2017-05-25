@@ -1,0 +1,62 @@
+---
+title: "Pedagogy in a large-enrollment simulation-based introductory biostatistics course"
+author: |
+  | Matthew Beckman
+  | Kari Lock Morgan
+  | *Pennsylvania State University*
+
+date: |
+  | Joint Statistical Meetings
+  | Baltimore, MD
+  | August 3, 2017
+output: beamer_presentation
+---
+
+## Description of STAT 250 (Matt)
+
+  - Large enrollment (about 210-225 students)
+  - Mostly life science majors
+  - 2015: Kari Morgan revamped course and converted to SBI approach
+
+## Pedagogical considerations: General (Matt)
+
+  - Question of the day (GAISE #1, 3)
+    - usually life science
+    - often real data from real studies
+    - sometimes PSU research
+    - translate scientific questions into statistical investigation (EDA, estimation, testing, etc)
+
+  - Weekly labs 
+    - real data that cite real studies (GAISE #1, 3)
+    - low-stakes lab quizzes (GAISE #6)
+
+  - Assessment strategy
+    - Short answer exam questions (GAISE #2, 6)
+    - Islands project (GAISE #6)
+
+## Pedagogical considerations: SBI (Matt)
+
+  - building intution (GAISE #2)
+  - tangible machinery 
+  - revisit key concepts through SBI & non-SBI (GAISE #2)
+
+## Pedagogical considerations: Large Enrollment (Matt)
+
+  - Smart phones to the rescue (?!)
+  - Google Sheet data collection in lecture (GAISE #3, 4, 5)
+  - Clickers (GAISE #4, 6)
+  - www.polleverywhere.com
+
+## Pedagogical considerations: SBI in Large Enrollment (Matt)
+
+  - M&M simulation (GAISE #4)
+  - StatKey in lecture (GAISE #2, 4, 5)
+
+## Compare/Contrast with other approaches (i.e. Kari as informal discussant)
+
+
+## References
+
+- GAISE (2016)
+- Rossman (2008)
+- Bulmer
