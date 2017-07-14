@@ -1,0 +1,57 @@
+---
+title: Pedagogical considerations for simulation-based inference in a large-enrollment
+  introductory biostatistics course.
+author: |
+  | Matthew Beckman & Kari Lock Morgan
+  | Penn State University
+
+date: |
+  | Joint Statistical Meetings
+  | Baltimore, MD
+  | August 3, 2017
+output:
+  beamer_presentation: default
+  slidy_presentation: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Outline: 
+
+- (MB) Brief Course Description
+- (MB) Pedagogical considerations
+    - SBI
+    - large enrollment
+    - intersection of SBI & large enrollment
+- (KLM) Compare/Contrast with other approaches (i.e. informal discussant)
+
+
+## Brief Course Description  
+
+- 200-225 students enrolled each semester
+- Lecture Mon & Fri with all students (50 min)
+- Lab sections Wed with 70-80 students each (50 min)
+- Question of the day (usually life science, sometimes PSU research)
+- Final Project
+
+## Pedagogical considerations
+
+- SBI
+    - building intution
+    - tangible machinery
+    - revisit key concepts through both SBI & non-SBI
+- large enrollment
+    - crowd-sourced Q&A
+    - Google sheets in lecture
+    - text message inbox
+    - clickers
+- intersection of SBI & large enrollment
+    - M&M simulation 
+    - StatKey during lecture
+
+## Compare/Contrast with other approaches (i.e. informal discussant)
+
+
+
