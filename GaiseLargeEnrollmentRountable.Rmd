@@ -132,3 +132,19 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # References
 
+\hangindent=0.7 cm Aliaga, M., Cobb, G., Cuff, C., Garfield, J., Gould, R., Lock, R., ... & Velleman, P. (2005). *Guidelines for assessment and instruction in statistics education (GAISE): College report.* American Statistical Association. Available at: http://www. amstat. org/education/gaise.
+
+\hangindent=0.7 cm Blumberg, P. (2015). Student Participation/Active Learning. *University of the Sciences’ Teaching and Learning Center.* Available at http://www.usciences.edu/teaching/tips/spal.shtml#within
+
+\hangindent=0.7 cm Carbone, E. (1998). *Teaching Large Classes: Tools and Strategies.* SAGE Publications.
+
+\hangindent=0.7 cm Davidson, N. (1990). Small-group Cooperative Learning in Mathematics, *Teaching and Learning Mathematics in the 1990s. The NCTM Yearbook.* p. 52-61.
+
+\hangindent=0.7 cm Gelman, A., & Nolan, D. (2002). *Teaching Statistics: A Bag of Tricks.* Oxford: Oxford University Press.
+
+\hangindent=0.7 cm Cobb, G. (1992). Teaching statistics. *Heeding the call for change: Suggestions for curricular action, 22,* 3-43. Washington, DC: Mathematical Association of America.
+
+\hangindent=0.7 cm GAISE College Report ASA Revision Committee (2016). *Guidelines for Assessment and Instruction in Statistics Education (GAISE) College Report 2016*, http://www.amstat.org/education/gaise.
+
+
+
