@@ -8,7 +8,7 @@ Kari Lock Morgan (Penn State University)
 
 This presentation discusses steps taken to integrate simulation-based inference (SBI) methods into an introductory biostatistics course. An overview of the course structure is provided, as well as pedagogical considerations relevant to SBI in a large enrollment context for undergraduate students in life science majors. Specific topics include use of inquiry-based framework, a complementary approach to SBI and non-SBI methods in order to emphasize conceptual understanding, and strategies for accommodating--perhaps even benefiting from--large enrollment for this type of course.  Lastly, the presentation will compare and contrast this course with other approaches to introductory statistics using SBI.
 
-#### Slides: [(Link)](SbiPanelBeckman.pdf)
+#### Slides: [(Link)](SBI_Slides_Beckman.pdf)
 
 
 ## GAISEing at a lecture hall: effective pedagogy in large-enrollment courses.
