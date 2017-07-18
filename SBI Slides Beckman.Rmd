@@ -52,10 +52,17 @@ t 20: [end]
 
 
 ## Pedagogical opportunities: SBI  
-- Tangible machinery (Ernst 2004; Rossman, 2008)  
-- Intution built on frequencies (Gigerenzer & Hoffrage, 1995)  
-- Permutation distr. segue (Ernst, 2004) 
-- Introduce key concepts with SBI; revisit with non-SBI  
+- Mathematical exposure
+    - Can scaffold as needed
+        - Tangible/tactile introduction (Ernst 2004; Rossman, 2008)  
+        - Permutation distribution as segue to SBI (Ernst, 2004)  
+    - Intuition built on frequencies (Gigerenzer & Hoffrage, 1995)  
+- Flexibility of application (Efron, 2000, p. 1294)  
+- Facilitates some useful conversations  
+    - Thinking under the null (Wild et al. 2011)
+    - p-values and the nature of randomness (Rossman, 2008)
+    - Why sample with replacement?  
+- Introduce key concepts using SBI; revisit with non-SBI  
     - Lock et al. (2017)
     - Tintle et al. (2016)
     - Zieffler et al. (2012)
@@ -64,7 +71,10 @@ t 20: [end]
 ## Pedagogical opportunities: Large enrollment  
 - Large sample size for student generated data (GAISE, 2016)
     - reliable demonstrations of asymptotic properties (e.g. CLT) using data generated in-class
-    - even anomalies are useful (e.g. outliers from wrong units & typos vs. legitimate extreme obs.)
+    - unusual observations often generated in-class
+        - outliers (e.g. wrong units & typos)
+        - legitimate extreme obs. (the tails are real)
+        - sensitivity analysis discussions
 - (Anonymous) Engagement  
     - Crowd-sourced Q&A  
     - Live SMS inbox  
@@ -76,7 +86,7 @@ t 20: [end]
 ## Pedagogical opportunities: Intersection of SBI & large enrollment   
 - Example: m&m activity in lecture  
     - Live capture in Google Sheet
-    - class builds sampling distribution  
+    - class approximates a sampling distribution  
     - student builds bootstrap distribution  
     - tangible comparison of sampling dist & bootstrap dist  
 - Example: StatKey on smart phones (during lecture)  
@@ -87,6 +97,8 @@ t 20: [end]
 ## References
 
 \scriptsize
+
+\hangindent=0.7 cm Efron, B. (2000). The bootstrap and modern statistics. *Journal of the American Statistical Association, 95* (452), 1293-1296.
 
 \hangindent=0.7 cm Ernst, M. D. (2004). Permutation methods: A basis for exact inference. *Statistical Science, 19*(4), p. 676-685.  
 
@@ -99,6 +111,8 @@ t 20: [end]
 \hangindent=0.7 cm Rossman, A. J. (2008). Reasoning about informal statistical inference: One statistician's view. *Statistics Education Research Journal 7*(2), p. 5-9.
 
 \hangindent=0.7 cm Tintle, N. L., Chance, B. L., Cobb G. W., Rossman, A. J., Roy, S., Swanson, T. M., VanderStoep, J. L. (2016). *Introduction to Statistical Investigations*. Hoboken, NJ: Wiley.
+
+\hangindent=0.7 cm Wild, C. J., Pfannkuch, M., Regan, M., & Horton, N. (2011). Towards more accessible conceptions of statistical inference. *Journal of the Royal Statistical Society, 174*(2), 247-295.
 
 \hangindent=0.7 cm Zieffler, A., & Catalysts for Change (2015). *Statistical Thinking: A simulation approach to undertainty* (third edition). Minneapolis, MN: Catalyst Press.
 
