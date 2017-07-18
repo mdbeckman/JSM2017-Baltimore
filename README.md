@@ -1,7 +1,7 @@
 ## Pedagogical considerations for simulation-based inference in a large-enrollment introductory biostatistics course.
 
 #### Authors:
-Matthew Beckman (Penn State University)
+Matthew Beckman (Penn State University)  
 Kari Lock Morgan (Penn State University)
 
 #### Abstract:
