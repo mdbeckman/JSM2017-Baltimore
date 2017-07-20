@@ -53,20 +53,27 @@ t 20: [end]
 
 ## Pedagogical opportunities: SBI  
 - Mathematical exposure
-    - Can scaffold as needed
+    - Fewer appeals to unseen mathematics (i.e. "hand waiving")
+    - Natural scaffolding
         - Tangible/tactile introduction (Ernst 2004; Rossman, 2008)  
-        - Permutation distribution as segue to SBI (Ernst, 2004)  
+        - Permutation distribution as possible segue (Ernst, 2004)
+        - Transfer tedious yet simple process to computer (Cobb, 2007)
     - Intuition built on frequencies (Gigerenzer & Hoffrage, 1995)  
 - Flexibility of application (Efron, 2000, p. 1294)  
 - Facilitates some useful conversations  
     - Thinking under the null (Wild et al. 2011)
     - p-values and the nature of randomness (Rossman, 2008)
-    - Why sample with replacement?  
-- Introduce key concepts using SBI; revisit with non-SBI  
-    - Lock et al. (2017)
-    - Tintle et al. (2016)
-    - Zieffler et al. (2012)
+    - Why OK to sample with replacement? 
 
+## Pedagogical opportunities: SBI  
+- Introduce key concepts using SBI; revisit with non-SBI  
+    - Lock et al. (2013)
+    - Tintle et al. (2016)
+    - Zieffler et al. (2015); Garfield et al. (2012)
+- SBI students seem to perform as well or better than peers in non-SBI courses
+    - Maurer & Lock (2016)
+    - Beckman, delMas, & Garfield (in press)
+    - Tintle et al. (2012)
 
 ## Pedagogical opportunities: Large enrollment  
 - Large sample size for student generated data (GAISE, 2016)
@@ -94,9 +101,13 @@ t 20: [end]
     - partner work (one run the app; one take notes)  
 
 
-## References
+## References (1 of 2)
 
 \scriptsize
+
+\hangindent=0.7 cm Beckman, M. D., delMas R. C., Garfield, J. (in press). Cognitive transfer outcomes for a simulation-based introductory statistics curriculum. *Statistics Education Research Journal*
+
+\hangindent=0.7 cm Cobb, G. W. (2007). The introductory statistics course: A ptolemaic curriculum. Technology Innovations in Statistics Education, 1(1), 1.
 
 \hangindent=0.7 cm Efron, B. (2000). The bootstrap and modern statistics. *Journal of the American Statistical Association, 95* (452), 1293-1296.
 
@@ -104,13 +115,23 @@ t 20: [end]
 
 \hangindent=0.7 cm GAISE College Report ASA Revision Committee (2016). *Guidelines for Assessment and Instruction in Statistics Education College Report 2016*, http://www.amstat.org/education/gaise.
 
+\hangindent=0.7 cm Garfield, J., delMas, R., & Zieffler, A. (2012). Developing statistical modelers and thinkers in an introductory, tertiary-level statistics course. *ZDM: The International Journal on Mathematics Education, 44*(7), 883-898. 
+
 \hangindent=0.7 cm Gigerenzer, G., & Hoffrage, U. (1995). How to improve bayesian reasoning without instruction: Frequency formats. *Psychological Review, 102*(4), p. 684-704.
 
-\hangindent=0.7 cm Lock, R. H., Lock, P. F., Lock-Morgan, K., Lock, E. F., Lock, D. f. (2017). *Statistics: Unlocking the power of data* (second edition). Hoboken, NJ: Wiley.
+## References (2 of 2)
+
+\scriptsize
+
+\hangindent=0.7 cm Lock, R. H., Lock, P. F., Lock-Morgan, K., Lock, E. F., Lock, D. f. (2013). *Statistics: Unlocking the power of data.* Hoboken, NJ: Wiley.
+
+\hangindent=0.7 cm Maurer, K., & Lock, D. (2016). Comparison of learning outcomes for simulation-based and traditional inference curricula in a designed educational experiment. *Technology Innovations in Statistics Education 9*(1). 
 
 \hangindent=0.7 cm Rossman, A. J. (2008). Reasoning about informal statistical inference: One statistician's view. *Statistics Education Research Journal 7*(2), p. 5-9.
 
 \hangindent=0.7 cm Tintle, N. L., Chance, B. L., Cobb G. W., Rossman, A. J., Roy, S., Swanson, T. M., VanderStoep, J. L. (2016). *Introduction to Statistical Investigations*. Hoboken, NJ: Wiley.
+
+\hangindent=0.7 cm Tintle, N., Topliff, K., Vanderstoep, J., Holmes, V., & Swanson, T. (2012). Retention of statistical concepts in a preliminary randomization-based introductory statistics curriculum. *Statistics Education Research Journal, 11*(1), 21–40.
 
 \hangindent=0.7 cm Wild, C. J., Pfannkuch, M., Regan, M., & Horton, N. (2011). Towards more accessible conceptions of statistical inference. *Journal of the Royal Statistical Society, 174*(2), 247-295.
 
