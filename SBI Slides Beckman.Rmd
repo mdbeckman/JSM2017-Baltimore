@@ -105,7 +105,7 @@ t 20: [end]
 
 \scriptsize
 
-\hangindent=0.7 cm Beckman, M. D., delMas R. C., Garfield, J. (in press). Cognitive transfer outcomes for a simulation-based introductory statistics curriculum. *Statistics Education Research Journal*
+\hangindent=0.7 cm Beckman, M. D., delMas R. C., Garfield, J. (in press). Cognitive transfer outcomes for a simulation-based introductory statistics curriculum. *Statistics Education Research Journal.* Retrieved from https://arxiv.org/pdf/1707.06537v1.pdf
 
 \hangindent=0.7 cm Cobb, G. W. (2007). The introductory statistics course: A ptolemaic curriculum. Technology Innovations in Statistics Education, 1(1), 1.
 
