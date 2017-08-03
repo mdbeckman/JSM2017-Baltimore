@@ -9,6 +9,9 @@ date: |
   | Joint Statistical Meetings
   | Baltimore, MD
   | August 3, 2017
+  | 
+  | <https://mdbeckman.github.io/JSM2017-Baltimore/>
+  
 output:
   beamer_presentation: default
 ---
@@ -48,8 +51,8 @@ t 20: [end]
 - Design  
     - Question of the day (life science; sometimes PSU rsh)  
     - StatKey + Minitab  
-    - In-class exams  
-
+    - In-class exams
+    - Group projects (using Michael Bulmer's *The Islands*)
 
 ## Pedagogical opportunities: SBI  
 - Mathematical exposure
@@ -88,7 +91,8 @@ t 20: [end]
     - Clickers 
         - instant feedback  
         - instant run-off  
-
+- Google Sheets, Forms, & other tools facilitate live capture of data for immediate use
+- GAISE (2016) includes much more support for large classes
 
 ## Pedagogical opportunities: Intersection of SBI & large enrollment   
 - Example: m&m activity in lecture  
@@ -100,7 +104,13 @@ t 20: [end]
     - accessible & scalable technology integration  
     - partner work (one run the app; one take notes)  
 
-
+## Concluding thoughts
+- Pedagogical opportunities 
+    - Simulation-based inference (SBI) 
+    - Large enrollment 
+    - Intersection of SBI & large enrollment
+- Translating small class pedagogy effectively to the large class environment is worth our effort & attention 
+    
 ## References (1 of 2)
 
 \scriptsize
@@ -136,9 +146,5 @@ t 20: [end]
 \hangindent=0.7 cm Wild, C. J., Pfannkuch, M., Regan, M., & Horton, N. (2011). Towards more accessible conceptions of statistical inference. *Journal of the Royal Statistical Society, 174*(2), 247-295.
 
 \hangindent=0.7 cm Zieffler, A., & Catalysts for Change (2015). *Statistical Thinking: A simulation approach to undertainty* (third edition). Minneapolis, MN: Catalyst Press.
-
-
-## Compare/contrast approaches (i.e. informal discussant)  
-
 
 
