@@ -1,0 +1,126 @@
+---
+title: "Thoughts on teaching an SBI course for a large class"
+author: "Matthew Beckman"
+date: "8/24/2017"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Executive Summary
+
+You can do it, and it's totally worth it.   
+
+## What this is & what this isn't
+
+Before you go further, I should point out that this post intends to simply share some ideas about *teaching* SBI in a large class environment rather than how to work SBI into your curriculum (regardless of class size).  A number of thoughtful suggestions on the latter have been published in this blog and other resources.  Besides, my colleague and friend--Kari Lock Morgan--had already done a truly remarkable job accomplishing that feat the semester before I was hired, and a number of our thoughtful colleagues have shared a wealth of fantastic ideas on that subject. This also isn't about how to be an engaging performer brimming with charisma in front of a sizeable crowd. Rather, what I hope to share in this post are simply rubber-meets-the-road ideas while you're actually in the classroom teaching your SBI course that at best capitalize on the large class size and at a minimum suggest a way to survive a few logistical challenges.
+
+## First, a bit of background. 
+
+I was lucky enough to get my start teaching simulation-based inference (SBI) in the introductory statistics curriculum as a graduate instructor in perhaps the ideal teaching lab environment toward the end of my PhD program.  The class was small--maybe 24 graduate students from non-quantitative disciplines.  We met in a brand new classroom with several 6-seat round tables each with power access, display cables, and a dedicated plasma screen so someone at every table could present simultaneously.  The students were highly engaged and motivated, the technology fell into my lab, and I had access to infinitely valuable mentors as well as a cadre of their graduate students (my peers) to call upon.  We even [wrote a post together on this very blog (link)](https://www.causeweb.org/sbi/?p=422#more-422)!  Clearly, this was a soft landing for my first exposure to teaching SBI, which I thought to be a compelling approach despite the radical departure from my earlier convictions when I began teaching statistics as adjunct faculty 5-6 years prior. 
+
+## My first large class.
+
+Fast-forward a few years to my first semester in a full-time faculty position at Penn State University.  My very first teaching assignment was an introductory biostatistics course with 230 students enrolled.  The class met in a traditional lecture hall with fixed seating and a quarter-circle writing surface attached to each armrest by a hinge.  Monday and Friday lectures were augmented by Wednesday labs for which the class had been partitioned into groups of 75, 75, and 80 students seated in wide rows behind fixed computer monitors.  
+
+I had studied the statistics education literature.  I had learned about theory and practice of efficient pedagogy.  But how was I supposed to do this in a class that was an order of magnitude larger than the ones that seemed to permeate the literature I had studied?  
+
+
+## Get to the point...
+
+Some ideas about *teaching* SBI in a large class environment.  Some people are heroically charasmatic lecturers
+
+These are organized as separate thoughts, but they run together...
+
+## Pedagogical opportunities: Large enrollment  
+- Large sample size for student generated data (GAISE, 2016)
+    - reliable demonstrations of asymptotic properties (e.g. CLT) using data generated in-class
+    - unusual observations often generated in-class
+        - outliers (e.g. wrong units & typos)
+        - legitimate extreme obs. (the tails are real)
+        - sensitivity analysis discussions
+- (Anonymous) Engagement  
+    - Crowd-sourced Q&A  
+    - Live SMS inbox  
+    - Clickers 
+        - instant feedback  
+        - instant run-off  
+- Google Sheets, Forms, & other tools facilitate live capture of data for immediate use
+- GAISE (2016) includes much more support for large classes
+
+## Pedagogical opportunities: Intersection of SBI & large enrollment   
+- Example: m&m activity in lecture  
+    - Live capture in Google Sheet
+    - class approximates a sampling distribution  
+    - student builds bootstrap distribution  
+    - tangible comparison of sampling dist & bootstrap dist  
+- Example: StatKey on smart phones (during lecture)  
+    - accessible & scalable technology integration  
+    - partner work (one run the app; one take notes)  
+
+
+
+### Thought #1: Maybe we can just do it anyway...
+
+- Example: m&m activity in lecture  
+    - Live capture in Google Sheet
+    - class approximates a sampling distribution  
+    - student builds bootstrap distribution  
+    - tangible comparison of sampling dist & bootstrap dist  
+- "plot on the board"
+    - labs with 75-80 they simulate by hand and walk to the front, just like in a small class.  it's fine
+    - lecture, they enter 
+- Google Sheets, Forms, & other tools facilitate live capture of data for immediate use
+
+
+### Thought #2: Crowd-source
+
+
+- the asymptotic point you want to make from student data is more likely to work
+- "unusual" stuff like typos, wrong units, and other anomalies happens EVERY time
+    - valuable teachable moment... this just happened, it's not hypothetical
+    - easy to clean up & filter out, so any delay is trivial
+- (M&Ms) 
+    - we're the sampling distribution
+    - you're the bootstrap distritubion
+
+- Large sample size for student generated data (GAISE, 2016)
+    - reliable demonstrations of asymptotic properties (e.g. CLT) using data generated in-class
+    - unusual observations often generated in-class
+        - outliers (e.g. wrong units & typos)
+        - legitimate extreme obs. (the tails are real)
+        - sensitivity analysis discussions
+
+
+### Thought #3: Redeem the Smartphone!
+
+- Example: StatKey on smart phones (during lecture)  
+    - accessible & scalable technology integration  
+    - partner work (one run the app; one take notes)  
+- QR codes or bit.ly links
+- live SMS inbox
+
+### Thought #4: Yes, I know about the clickers
+
+I actually like the clickers, and do use them regularly in class. They really are a great tool, but early in my quest for good pedagogy that scales to the large class environment it seemed like everyone I approached led with "Are you using clickers?"  Again, they're great, but *are clickers really the best we've got?*  As a result, I confess I began to develop an association between clickers and a certain dissapointment.  
+
+
+
+### Thought #5: You don't have to go it alone.
+
+- talk to others... in statistics, but also not just in statistics.  Good teachers with good ideas are everywhere
+- GAISE has progressively beefed up the large class game with each iteration; 
+- GAISE (2016) includes much more support for large classes
+
+
+
+#### [cut]
+Frequently this involves a conceptual multiple choice question on the screen scored only for participation.  With the software I'm using, I can show them a histogram of the responses either while the poll is still open or after I close it.  If you're wondering whether students care about getting the right answer on a completely anonymous poll scored only for participation (out of maybe 150 during the semester) try this: while students are voting (i.e. the poll is open) show the histogram and tell them the correct answer.  I've noticed that the *vast* majority of students eventually change their answer when I play this little game.  By the way, they usually don't know that I'm playing it... it would appear we're just discussing the correct answer with the histogram showing and had not bothered to shut off the poll (to be fair, that happens too)
+
+
+#### [cut]
+A few weeks before starting my position at Penn State, I found myself seated next to Michael Bulmer at dinner before an informal seminar where he was about to share how he was using his outstanding tool--the Islands (<https://islands.smp.uq.edu.au/>)--as a resource for class projects.  I explained how much I appreciated his work, but struggled to imagine how to manage it for projects in this incredibly large class I was to begin.  He gave a number of insightful suggestions before I asked about the enrollment in his class.  His class has 1000 students.  I find myself second guessing that his class actually is that large, so I started to do an Internet search to see if the enrollment was posted publicly.  Just as I was making my way to what seemed to be the right page, I decided to stop.  It occurred to me that the remark has has such an empowering impact for me, that I didn't want to risk spoiling it with the truth.  I think he teaches a class of 1000 students
+
+
