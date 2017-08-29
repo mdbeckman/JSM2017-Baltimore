@@ -1,8 +1,10 @@
 ---
-title: "Thoughts on teaching an SBI course for a large class"
+title: "Thoughts on teaching SBI in a large class"
 author: "Matthew Beckman"
 date: "8/24/2017"
-output: pdf_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
