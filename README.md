@@ -1,3 +1,9 @@
+
+
+![](JSM Content QR.png)
+
+#### <https://goo.gl/PobZJX>
+
 ## Pedagogical considerations for simulation-based inference in a large-enrollment introductory biostatistics course.
 
 #### Authors:
